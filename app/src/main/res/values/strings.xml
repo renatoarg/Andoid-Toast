@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Toast</string>
+    <string name="simple_toast">Simple Toast</string>
+    <string name="top_toast">Top Toast!</string>
+    <string name="top_margin_toast">Top Margin Toast</string>
+    <string name="left_toast">Left Toast!</string>
+    <string name="left_margin_toast">Left Margin Toast!</string>
+    <string name="customToast">Custom Toast!</string>
+</resources>
